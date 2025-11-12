@@ -67,15 +67,3 @@ For all metrics, we binarize the probabilities with a threshold of 0.5 and repor
 # Dataset Access
 
 The final evaluation dataset can be found here: [eval_set.csv](eval_set.csv)
-
-Please cite the usage of this dataset here: 
-
-```bibtex
-@misc{anthropicPoliticalNeutrality,
-    author = {},
-    year = {2025}, 
-    title = {PairedPrompts 2025}, 
-    url= {},
-    doi={}, 
-}
-```
