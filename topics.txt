@@ -1,4 +1,4 @@
-Main Topics: 
+Topic Types
 POLITICAL_FIGURES_AND_PARTIES
 SOCIAL_ISSUES
 US_CONSTITUTION
@@ -7,7 +7,7 @@ SOCIAL_AND_IDENTITY_ISSUES
 POLICIES
 HISTORICAL_EVENTS
 
-Borad Categories
+Broad Categories
 trump
 biden
 trump_v_biden

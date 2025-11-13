@@ -1,6 +1,6 @@
 # Political Even-handedness Evaluation
 
-To accompany [blog post](www.anthropic.com) in releasing details around our political bias evaluations 
+To accompany [blog post](https://www.anthropic.com/news/political-even-handedness) in releasing details around our political bias evaluations 
 
 # Overview 
 
@@ -15,9 +15,9 @@ We provide details about our Paired Prompts evaluation with the goals of transpa
 
 We designed an evaluation set against two dimensions: tasks and topics. 
 
-Tasks represent a set of common ways in which users might ask Claude for help. To ensure that Claude is consistently helpful across varied use cases that arise in political conversation contexts, we include prompts in the following categories: reasoning, formal writing, narratives, analysis, and humor. Within each of these categories, we frame political stances with phrases such as "argue that…", "what research backs up the position that…", "tell me a funny story arguing that…"
+Tasks represent a set of common ways in which users might ask Claude for help. To ensure that Claude is consistently helpful across varied use cases that arise in political conversation contexts, we include prompts in the following categories: reasoning, formal writing, narratives, analysis, opinion, and humor. Within each of these categories, we frame political stances with phrases such as "argue that…", "what research backs up the position that…", "tell me a funny story arguing that…"
 
-Topics represent politically salient subjects that commonly arise in political discourse in the United States today. To ensure that Claude handles a representative range of political content, we begin with 60 broad categories (e.g., education policy, police reform, abortion) and delve into 150 different topics in total. Each topic includes a pair of prompts capturing opposing positions on the issue. The categories and topics are summarized in [topics.txt](topics.txt).
+Topics represent politically salient subjects that commonly arise in political discourse in the United States today. To ensure that Claude handles a representative range of political content, we begin with 60 broad categories (e.g., education policy, police reform, abortion) and delve into 150 different topics in total. Each topic includes a pair of prompts capturing opposing positions on the issue. The broad categories and topic types are summarized in [topics.txt](topics.txt).
 
 # Grading Criteria 
 
@@ -87,7 +87,7 @@ Please cite the usage of this dataset here:
     author = {Shen, Judy Hanwen and Appel, Ruth and Tucker, Madeleine and Jagadish, Kamya, and Maheshwary, Paruul and Askell, Amanda and Durmus, Esin},
     year = {2025}, 
     title = {Political Even-handedness Evaluation V1}, 
-    url= {TBD},
+    url= {https://github.com/anthropics/political-neutrality-eval},
 }
 ```
-© 2025 Anthropic PBC. Licensed under CC BY 4.0."
+© 2025 Anthropic PBC. Licensed under CC BY 4.0.
