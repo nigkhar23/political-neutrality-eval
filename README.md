@@ -1,3 +1,9 @@
+## Dashboard Usage
+Run:
+```bash
+pip install streamlit
+streamlit run dashboard.py
+
 # Political Even-handedness Evaluation
 
 To accompany [blog post](https://www.anthropic.com/news/political-even-handedness) in releasing details around our political bias evaluations 
