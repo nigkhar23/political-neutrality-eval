@@ -1,3 +1,7 @@
+## Dashboard Documentation
+For detailed instructions on using the dashboard, see:
+[Dashboard README](dashboard_readme.md)
+
 ## Dashboard Usage
 Run:
 ```bash
