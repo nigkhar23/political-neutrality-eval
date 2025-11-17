@@ -3,6 +3,7 @@ Run:
 ```bash
 pip install streamlit
 streamlit run dashboard.py
+```
 
 # Political Even-handedness Evaluation
 
